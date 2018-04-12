@@ -1,0 +1,7 @@
+plot/*
+log/*
+dataset/*
+
+*.pyc
+*.pdf
+*.png
